@@ -3,9 +3,15 @@
 
 using namespace std;
 
+
 void bubblesort(){
 
     cout << "bubble sort " << endl;
+}
+void quicksort(){
+
+    cout << "quicksort" << endl;
+
 }
 
 
