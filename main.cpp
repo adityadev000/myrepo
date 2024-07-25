@@ -3,7 +3,10 @@
 
 using namespace std;
 
+void quicksort(){
 
+    cout << "quicksort" << endl;
+}
 
 
 int main(){
