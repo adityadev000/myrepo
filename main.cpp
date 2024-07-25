@@ -8,10 +8,16 @@ void bubblesort(){
 
     cout << "bubble sort " << endl;
 }
+
 void quicksort(){
 
     cout << "quicksort" << endl;
 
+}
+
+void mergesort(){
+
+    cout << "merge sort " << endl;
 }
 
 
