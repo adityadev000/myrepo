@@ -19,6 +19,10 @@ void mergesort(){
 
     cout << "merge sort " << endl;
 }
+void insertionsort(){
+
+    cout << "merge sort " << endl;
+}
 
 
 int main(){
